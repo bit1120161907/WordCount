@@ -1,0 +1,4 @@
+﻿  wordcount.cpp
+c:\users\lenovo\desktop\wordcount\wordcount\wordcount\wordcount.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  wordcount.vcxproj -> C:\Users\lenovo\Desktop\WordCount\wordcount\Debug\wordcount.exe
+  wordcount.vcxproj -> C:\Users\lenovo\Desktop\WordCount\wordcount\Debug\wordcount.pdb (Partial PDB)
